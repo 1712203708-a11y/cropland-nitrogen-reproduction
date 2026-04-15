@@ -1,5 +1,3 @@
-<img width="2853" height="1756" alt="image" src="https://github.com/user-attachments/assets/9b51e642-dac3-4259-99fe-85f0a9e603a3" /># Nature Food Figure 1–3 Reproduction
-
 本仓库包含 Nature Food 论文  
 **Optimized agricultural management reduces global cropland nitrogen losses to air and water** (2024) 的复现代码、复现结果图和部分原始数据。
 
